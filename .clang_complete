@@ -1,5 +1,5 @@
--IC:/Users/user/Documents/PlatformIO/Projects/Snake/include
--IC:/Users/user/Documents/PlatformIO/Projects/Snake/src
+-IC:/Users/user/Documents/GitHub/Snake/include
+-IC:/Users/user/Documents/GitHub/Snake/src
 -IC:/Users/user/.platformio/packages/framework-arduinoavr/cores/arduino
 -IC:/Users/user/.platformio/packages/framework-arduinoavr/variants/eightanaloginputs
 -IC:/Users/user/.platformio/lib/Pushdata_ESP8266_SSL_ID6171/src
