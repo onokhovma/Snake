@@ -7,6 +7,10 @@ int pwmPin   = 6;   //Пин подключен к OE входу 74HC595 для 
 int pos, posOld = 0;
 volatile int tic, Dimmer;
 
+void showLed(int bitPos, int pwm);
+void animate_run(int _bitPos);
+void animate_setup();
+
 unsigned long timing;
  int pwm = 50;
 
